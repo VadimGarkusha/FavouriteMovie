@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/Movie.cpp
+Movie.h
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/Movie.h
+iostream
+-
+string
+-
+
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/Movie.h
+string
+-
+
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/main.cpp
+iostream
+-
+Movie.h
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/Movie.h
+

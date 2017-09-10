@@ -1,0 +1,3 @@
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/vadimgarkusha/Documents/github/FavouriteMovie/cmake-build-debug/CMakeFiles/FavouriteMovie.dir
